@@ -1,0 +1,1 @@
+This will collect System Info, Extrnal IP, and any existing bitlocker keys for unlocked drives. It will even recover the IDs for locked OneDrive vaults and  pull the key files for unlocked vaults when online. It's just a batch file but saves content to a folder and file of your choice, usually a USB with this batch file is suggested. 
